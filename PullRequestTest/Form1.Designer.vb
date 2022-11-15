@@ -28,11 +28,11 @@ Partial Class Form1
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(12, 9)
+        Me.Label1.Location = New System.Drawing.Point(13, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(66, 12)
+        Me.Label1.Size = New System.Drawing.Size(99, 12)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Hello World!"
+        Me.Label1.Text = "Hello PullRequest!"
         '
         'Form1
         '
